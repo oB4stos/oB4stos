@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**oB4stos/oB4stos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Abaixo segue algumas coisas sobre mim:
 
-Here are some ideas to get you started:
+- 💼 Sigo trabalhando em uma empresa de Software (estágio)
+- 📚 Estou aprendendo Unity e Analise de Dados com Python 
+- 📩 Contate-me pelo e-mail: leonardo17sc@gmail.com 
+- 💌 Contate-me também pelo: [Instagram](https://www.instagram.com/ob4stos/)
+- 😄 Pronomes: Ele/dele
+- ⚽ Hobbies: Criar e jogar jogos, piano e esportes 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
