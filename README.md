@@ -9,10 +9,13 @@
 - 😄 Pronomes: Ele/dele
 - ⚽ Hobbies: Criar e jogar jogos, piano e esportes 
 
-<div>
-  <a href="https://github.com/oB4stos">	
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ob4stos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ob4stos&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://github.com/oB4stos">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ob4stos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/oB4stos">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ob4stos&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
