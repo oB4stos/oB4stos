@@ -6,7 +6,8 @@ Acompanhe o que eu desenvolvo na aba de **repositórios**.
 
 <div>
   <a href="https://github.com/oB4stos">	
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=ob4stos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=ob4stos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_bust=1"/>
+
   <!--<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ob4stos&layout=compact&langs_count=16&theme=dracula"/>-->
 </div>
 
