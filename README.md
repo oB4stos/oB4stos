@@ -29,10 +29,10 @@ Acompanhe o que eu desenvolvo na aba de **repositórios**.
 
 ### Abaixo segue algumas coisas sobre mim:
 
-- ⚽ Hobbies: Criar e jogar jogos, piano e esportes
+- ⚽ Hobbies: Jogar e criar conteúdo de jogos, piano e esportes.
 - 💼 Sigo trabalhando em uma empresa de Software (estágio)
 - 📚 Estou aprendendo Unity e Analise de Dados com Python
-- 😉 Sigo disposto a aprender e ajudar no que precisar
+- 😉 Sigo disposto a aprender e ajudar no que for preciso
 - 📩 Contate-me pelo e-mail: leonardo17sc@gmail.com 
 - 💌 Contate-me também pelo: [Instagram](https://www.instagram.com/ob4stos/)
 
