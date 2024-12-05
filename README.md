@@ -1,13 +1,8 @@
 ## Olá! Eu sou Leonardo Bastos 👋
+Acompanhe o que eu desenvolvo na aba de **repositórios**. 
 
-### Abaixo segue algumas coisas sobre mim:
 
-- 💼 Sigo trabalhando em uma empresa de Software (estágio)
-- 📚 Estou aprendendo Unity e Analise de Dados com Python 
-- 📩 Contate-me pelo e-mail: leonardo17sc@gmail.com 
-- 💌 Contate-me também pelo: [Instagram](https://www.instagram.com/ob4stos/)
-- 😄 Pronomes: Ele/dele
-- ⚽ Hobbies: Criar e jogar jogos, piano e esportes 
+
 
 <div>
   <a href="https://github.com/oB4stos">	
@@ -31,6 +26,15 @@
     <a href="mailto:leonardo17sc@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <!--<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
 </div>
+
+### Abaixo segue algumas coisas sobre mim:
+
+- ⚽ Hobbies: Criar e jogar jogos, piano e esportes
+- 💼 Sigo trabalhando em uma empresa de Software (estágio)
+- 📚 Estou aprendendo Unity e Analise de Dados com Python
+- 😉 Sigo disposto a aprender e ajudar no que precisar
+- 📩 Contate-me pelo e-mail: leonardo17sc@gmail.com 
+- 💌 Contate-me também pelo: [Instagram](https://www.instagram.com/ob4stos/)
 
           
           
